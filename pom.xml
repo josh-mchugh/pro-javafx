@@ -48,6 +48,11 @@
             <artifactId>quarkus-fx</artifactId>
             <version>0.5.3</version>
         </dependency>
+	<dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-web</artifactId>
+            <version>22.0.2</version>
+        </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-arc</artifactId>
