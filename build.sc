@@ -1,6 +1,6 @@
 import mill._, scalalib._
 
-object app extends ScalaModule {
+trait AppModule extends ScalaModule {
   def scalaVersion = "3.3.3"
 
   def resolutionCustomizer = T.task {
@@ -22,4 +22,10 @@ object app extends ScalaModule {
       ivy"org.openjfx:javafx-web:22.0.2",
     )
   }
+}
+
+object app extends AppModule { }
+
+object chapter1 extends AppModule {
+  object helloearthrise extends AppModule { }
 }
