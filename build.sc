@@ -29,4 +29,5 @@ object app extends AppModule { }
 object chapter1 extends AppModule {
   object helloearthrise extends AppModule { }
   object helloscrollpane extends AppModule { }
+  object audioconfig extends AppModule { }
 }
