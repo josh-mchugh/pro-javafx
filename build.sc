@@ -31,3 +31,7 @@ object chapter1 extends AppModule {
   object helloscrollpane extends AppModule { }
   object audioconfig extends AppModule { }
 }
+
+object chapter2 extends AppModule {
+  object stagecoach extends AppModule { }
+}
