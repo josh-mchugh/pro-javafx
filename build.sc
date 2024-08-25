@@ -34,4 +34,5 @@ object chapter1 extends AppModule {
 
 object chapter2 extends AppModule {
   object stagecoach extends AppModule { }
+  object onthescene extends AppModule { }
 }
