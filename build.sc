@@ -36,4 +36,5 @@ object chapter2 extends AppModule {
   object stagecoach extends AppModule { }
   object onthescene extends AppModule { }
   object metronome1 extends AppModule { }
+  object metronomepathtransition extends AppModule { }
 }
