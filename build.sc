@@ -38,3 +38,8 @@ object chapter2 extends AppModule {
   object metronome1 extends AppModule { }
   object metronomepathtransition extends AppModule { }
 }
+
+object chapter3 extends AppModule {
+  object rectanglearea extends AppModule { }
+  object motivatingexample extends AppModule { }
+}
