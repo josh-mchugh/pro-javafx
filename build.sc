@@ -42,4 +42,6 @@ object chapter2 extends AppModule {
 object chapter3 extends AppModule {
   object rectanglearea extends AppModule { }
   object motivatingexample extends AppModule { }
+  object bidirectionalbinding extends AppModule { }
+  object numericproperties extends AppModule { }
 }
