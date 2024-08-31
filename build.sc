@@ -45,4 +45,7 @@ object chapter3 extends AppModule {
   object bidirectionalbinding extends AppModule { }
   object numericproperties extends AppModule { }
   object trianglearea extends AppModule { }
+  object triangleareafluent extends AppModule { }
+  object heronsformula extends AppModule { }
+  object heronsformuladirectextension extends AppModule { }
 }
