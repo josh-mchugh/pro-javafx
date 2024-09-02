@@ -49,3 +49,7 @@ object chapter3 extends AppModule {
   object heronsformula extends AppModule { }
   object heronsformuladirectextension extends AppModule { }
 }
+
+object chapter4 extends AppModule {
+  object alignusingstackandtile extends AppModule { }
+}
