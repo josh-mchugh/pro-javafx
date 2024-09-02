@@ -52,4 +52,5 @@ object chapter3 extends AppModule {
 
 object chapter4 extends AppModule {
   object alignusingstackandtile extends AppModule { }
+  object borderlayout extends AppModule { }
 }
